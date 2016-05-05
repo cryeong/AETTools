@@ -9,6 +9,14 @@ html, body {
 <script src="https://rawgit.com/cryeong/svggl/da8312d77364eb8f34dff78c4dab8a6190119e37/svggl.js"></script>
 </head>
 <body>
-<script type="text/javascript" src="https://rawgit.com/cryeong/AETTools/master/aettool.js"></script>
+<script src="https://rawgit.com/cryeong/AETTools/master/aettool.js"></script>
+<script type="text/javascript">
+window.onload=function(){
+	var ate = new ATEditor();
+    ate.port.setAttribute('style','position:fixed !important; top:0px !important; left:0px !important; width:100% !important; height:100% !important;');
+    b.insertBefore(ate.port,b.firstChild);
+    ate.port.style.zIndex = 9999;
+};
+</script>
 </body>
 </html>
