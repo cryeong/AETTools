@@ -36,5 +36,10 @@ while( i1 < i3 ) {
 
 ```
 
-Screenshot
+#Screenshot
+
+Result from sample script above:
 ![alt tag](https://raw.githubusercontent.com/cryeong/AETTools/master/screenshot.png)
+
+How it was used to visualise the math relation behind page flipping effect.
+![alt tag](https://raw.githubusercontent.com/cryeong/AETTools/master/screenshot2.png)
