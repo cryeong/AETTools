@@ -1,0 +1,3 @@
+[submodule "svggl"]
+	path = svggl
+	url = http://github.com/cryeong/svggl.git
