@@ -3,6 +3,8 @@ AETTools is a tool initially built to visualise the geometry relation behind the
 
 The tool let you compile a simple script written in GLSL like language, and render the result in the SVG, and automatically update some of the reserved parameters with interactive data, such as mouse position.
 
+Click [here](https://dl.dropboxusercontent.com/u/56320860/demo-2.html) for demo.
+
 # Syntax
 
 Sample scripts
