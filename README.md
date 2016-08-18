@@ -1,7 +1,7 @@
 # AETTools
-AETTools is a tool initially built to visualise the geometry relation behind the popular realistic page flipping graphical effect used by many projects, such as Apple iBook (PageController). It works as an external script, which will be injected into webpage and initialise a SVG view above the original content.
+AETTools is a tool initially built to visualise the geometry relation of the page flipping graphical effect (i.e. Apple iBook PageController). It works as an external script, which will be injected into the webpage and initialise a SVG view on top of the original content.
 
-The tool let you compile a simple script written in GLSL like language, and render the result in the SVG, and automatically update some of the reserved parameters with interactive data, such as mouse position.
+The tool compile a simple script written in GLSL like language, and render the result in the SVG view.
 
 Click [here](https://dl.dropboxusercontent.com/u/56320860/demo-2.html) for demo.
 
